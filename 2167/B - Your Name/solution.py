@@ -1,0 +1,1 @@
+n=int(input())for i in range(n):    l=int(input())    s,t=input().split()    d1={}    d2={}    for i in range(l):        d1[s[i]]=d1.get(s[i],0)+1        d2[t[i]]=d2.get(t[i],0)+1    if d1==d2:        print("YES")    else:        print("NO")
