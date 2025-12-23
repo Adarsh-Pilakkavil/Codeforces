@@ -1,0 +1,1 @@
+n=int(input())for i in range(n):    k=int(input())    l=list(map(int,input().split()))    m=0    c=0    for j in l:        if j<m:            c+=1        else:            m=j    print(c)
