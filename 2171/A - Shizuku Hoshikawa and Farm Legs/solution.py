@@ -1,0 +1,1 @@
+t=int(input())for i in range(t):    n=int(input())    c=0    for i in range(n//4+1):        if (n-4*i)%2==0:            c+=1    print(c)
