@@ -1,0 +1,1 @@
+t=int(input())for i in range(t):    k=int(input())    l=list(map(int,input().split()))    print(k*max(l))
