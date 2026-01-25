@@ -1,0 +1,1 @@
+t=int(input())for i in range(t):    n=int(input())    l=list(map(int,input().split()))    left=-1    for i in range(n,0,-1):        if l[n-i]==i:            continue        else:            left=n-i            break     if left != -1:        k=l.index(n-left)        l[left:k+1]=reversed(l[left:k+1])    for i in l:        print(i,end=" ")    print()
