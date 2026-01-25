@@ -1,0 +1,1 @@
+t=int(input())for i in range(t):    n,s,x=map(int,input().split())    l=list(map(int,input().split()))    if s<sum(l):        print("NO")    elif (s-sum(l))%x==0:        print("YES")    else:        print("NO")
