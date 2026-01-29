@@ -1,0 +1,1 @@
+t=int(input())for i in range(t):    n=int(input())    l=[1]    k=0    for j in range(n-1,0,-1):        if k==0:            l.append(l[-1]+j)            k=1        else:            l.append(l[-1]-j)            k=0    l=l[::-1]    for i in l:        print(i,end=" ")    print()
