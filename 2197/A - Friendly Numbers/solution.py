@@ -1,0 +1,1 @@
+t=int(input())for i in range(t):    n=int(input())    c=0    for i in range(n,n+82):        k=sum(int(x) for x in str(i))        if i-k==n:            c+=1    print(c)
