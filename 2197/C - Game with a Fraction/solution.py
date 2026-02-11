@@ -1,0 +1,1 @@
+t=int(input())for i in range(t):    k=0    p,q=map(int,input().split())    if 3*p>=2*q and p<q:        print("Bob")    else:        print("Alice")
