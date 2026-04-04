@@ -1,0 +1,1 @@
+t=int(input())for i in range(t):    l=list(map(int,input().split()))    k=max(l)    print(-(sum(l)-(2*k)))
