@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 5 |
+| 6 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dfs and similar](#dfs-and-similar) (1)
 - [greedy](#greedy) (2)
@@ -26,6 +26,7 @@
 |---|---------|------------|----------|
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.txt) |
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | Unrated | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2242/A%20-%20Bigrams/solution.txt) |
+| 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | Unrated | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.txt) |
 
 ### constructive algorithms
 
