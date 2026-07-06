@@ -1,0 +1,22 @@
+t=int(input())
+for _ in range(t):
+    n=int(input())
+    l=list(map(int,input().split()))
+    if n==1:
+        if l[0]>=3:
+            print("YES")
+        else:
+            print("NO")
+        continue
+    c=0
+    f=False
+    for i in l:
+        if i>=3:
+            f=True
+            break
+        if i>=2:
+            c+=1
+    if f or c>=2:
+        print("YES")
+    else:
+        print("NO")
