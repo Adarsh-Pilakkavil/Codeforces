@@ -1,0 +1,18 @@
+t=int(input())
+for j in range(t):
+    n,x,y=map(int,input().split())
+    l=list(map(int,input().split()))
+    gcd=1
+    f=True
+    x,y=max(x,y),min(x,y)
+    while y:
+        x,y=y,x%y
+    gcd=x
+    for i in range(len(l)):
+        if l[i]%gcd!=(i+1)%gcd:
+            f=False
+            break
+    if f:
+        print("YES")
+    else:
+        print("NO")
