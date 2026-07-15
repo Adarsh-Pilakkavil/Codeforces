@@ -6,16 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 6 |
+| 11 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (6)
+- [binary search](#binary-search) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dfs and similar](#dfs-and-similar) (1)
-- [greedy](#greedy) (3)
+- [greedy](#greedy) (4)
 - [math](#math) (3)
 - [strings](#strings) (1)
 
@@ -31,6 +32,12 @@
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | Unrated | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.txt) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | Unrated | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.txt) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | Unrated | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.txt) |
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | 1000 | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.txt) |
 
 ### constructive algorithms
 
@@ -50,6 +57,7 @@
 |---|---------|------------|----------|
 | 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.txt) |
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.txt) |
+| 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | 1000 | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.txt) |
 | 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | Unrated | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2241/C%20-%20RemovevomeR/solution.txt) |
 
 ### math
