@@ -1,0 +1,32 @@
+t=int(input())
+for i in range(t):
+    n,d=map(int,input().split())
+    a=list(map(int,input().split()))
+    b=list(map(int,input().split()))
+    c=0
+    if sum(a)<sum(b):
+        print(-1)
+        continue
+    if a==b:
+        print(0)
+        continue
+    for i in range(n):
+        if a[i]<b[i]:
+            c=0
+            break
+        else:
+            c+=a[i]-b[i]
+    if c!=0:
+        print(min(c,d+sum(a)-sum(b)))
+    else:
+        a.sort()
+        b.sort()
+        f=True
+        for i in range(n):
+            if a[i]<b[i]:
+                f=False
+                break
+        if f:
+            print(d+sum(a)-sum(b))
+        else:
+            print(-1)
