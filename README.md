@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 8 |
+| 13 | 10 |
 
 ---
 
@@ -16,8 +16,10 @@
 - [binary search](#binary-search) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dfs and similar](#dfs-and-similar) (1)
+- [dp](#dp) (1)
 - [greedy](#greedy) (5)
-- [math](#math) (4)
+- [math](#math) (5)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
 
@@ -52,6 +54,12 @@
 |---|---------|------------|----------|
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | Unrated | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.txt) |
 
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.txt) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -69,7 +77,14 @@
 | 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.txt) |
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.txt) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.txt) |
+| 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.txt) |
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | Unrated | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.txt) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.txt) |
 
 ### sortings
 
