@@ -1,0 +1,21 @@
+t=int(input())
+for _ in range(t):
+    c1=0
+    c0=0
+    s=input()
+    for i in s:
+        if i=="1":
+            c1+=1
+        else:
+            c0+=1
+    t=0
+    for i in s:
+        if i=="0" and c1>0:
+            c1-=1
+            t+=1
+        elif i=="1" and c0>0:
+            c0-=1
+            t+=1
+        else:
+            break
+    print(len(s)-t)
