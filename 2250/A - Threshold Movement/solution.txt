@@ -1,0 +1,18 @@
+t=int(input())
+for _ in range(t):
+    n=int(input())
+    k=list(map(int,input().split()))
+    f=True
+    l=0
+    h=10**9+1
+    if n%2!=0:
+        print("No")
+        continue
+    o=k[::2]
+    e=k[1::2]
+    mio=min(o)
+    mae=max(e)
+    if mio-mae>=2:
+        print("Yes")
+    else:
+        print("No")
