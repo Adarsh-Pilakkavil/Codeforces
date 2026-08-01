@@ -1,0 +1,18 @@
+t=int(input())
+for i in range(t):
+    s=input()
+    c0,c1=-1,-1
+    for i in range(len(s)):
+        if c1!=-1 and c0!=-1:
+            break
+        if s[i]=="1" and c1==-1:
+            c1=i
+        if s[i]=="0" and c0==-1:
+            c0=i
+    t=""
+    for i in range(len(s)):
+        if i==c0 or i==c1:
+            continue
+        else:
+            t+=s[i]
+    print(t)
