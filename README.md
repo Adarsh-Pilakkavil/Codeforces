@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 10 |
+| 18 | 10 |
 
 ---
 
@@ -17,10 +17,10 @@
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (1)
-- [greedy](#greedy) (5)
+- [greedy](#greedy) (6)
 - [math](#math) (5)
 - [number theory](#number-theory) (1)
-- [sortings](#sortings) (1)
+- [sortings](#sortings) (2)
 - [strings](#strings) (2)
 
 ---
@@ -72,6 +72,7 @@
 | 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | 1000 | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.txt) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.txt) |
 | 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | Unrated | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2241/C%20-%20RemovevomeR/solution.txt) |
+| 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | Unrated | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.txt) |
 
 ### math
 
@@ -94,6 +95,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.txt) |
+| 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | Unrated | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.txt) |
 
 ### strings
 
