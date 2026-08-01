@@ -1,0 +1,21 @@
+t=int(input())
+for i in range(t):
+    n,m=map(int,input().split())
+    a=list(map(int,input().split()))
+    b=list(map(int,input().split()))
+    if n<2*m:
+        print("NO")
+        continue
+    a.sort()
+    b.sort()
+    f=True
+    for i in range(m):
+        if a[i]<b[i] and b[i]<a[n-m+i]:
+            continue
+        else:
+            f=False
+            break
+    if f:
+        print("Yes")
+    else:
+        print("No")
