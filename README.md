@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 21 | 10 |
+| 22 | 10 |
 
 ---
 
@@ -16,9 +16,9 @@
 - [binary search](#binary-search) (1)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (1)
+- [dp](#dp) (2)
 - [greedy](#greedy) (6)
-- [math](#math) (5)
+- [math](#math) (6)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (2)
@@ -64,6 +64,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/1883/C%20-%20Raspberries/solution.txt) |
 | 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.txt) |
 
 ### greedy
@@ -81,6 +82,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/1883/C%20-%20Raspberries/solution.txt) |
 | 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.txt) |
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.txt) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.txt) |
