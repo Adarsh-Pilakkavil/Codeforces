@@ -1,0 +1,26 @@
+t=int(input())
+ 
+for _ in range(t):
+    n = int(input())
+    a = input().strip()
+    b = input().strip()
+ 
+    ae,ao,be,bo=0,0,0,0
+ 
+    for i in range(n):
+        if a[i]=='1':
+            if i%2==0:
+                ae+=1
+            else:
+                ao+=1
+ 
+        if b[i]=='1':
+            if i%2==0:
+                be+=1
+            else:
+                bo+=1
+ 
+    if ae==be and ao==bo:
+        print("YES")
+    else:
+        print("NO")
