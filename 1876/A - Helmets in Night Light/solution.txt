@@ -1,0 +1,24 @@
+t=int(input())
+for _ in range(t):
+    n,p=map(int,input().split())
+    num=list(map(int,input().split()))
+    c=list(map(int,input().split()))
+    l=[]
+    for i in range(n):
+        l.append((c[i],num[i]))
+    l.sort()
+    cost = p 
+    already_shared = 1  
+    for sc,cbs in l:
+        if sc>=p:
+            break
+        if already_shared+cbs>n:
+            cost+=(n-already_shared)*sc
+            already_shared=n
+            break
+        else:
+            cost+=sc*cbs
+            already_shared+=cbs
+    cost+=(n-already_shared)*p
+    print(cost)
+        
