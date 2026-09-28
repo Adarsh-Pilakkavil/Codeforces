@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 24 | 10 |
+| 25 | 12 |
 
 ---
 
@@ -14,10 +14,12 @@
 
 - [Uncategorized](#uncategorized) (12)
 - [binary search](#binary-search) (1)
+- [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
 - [greedy](#greedy) (7)
+- [implementation](#implementation) (1)
 - [math](#math) (6)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (3)
@@ -47,6 +49,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | 1000 | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.txt) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | Unrated | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.txt) |
 
 ### constructive algorithms
 
@@ -79,6 +87,12 @@
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.txt) |
 | 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | Unrated | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2241/C%20-%20RemovevomeR/solution.txt) |
 | 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | Unrated | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.txt) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | Unrated | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.txt) |
 
 ### math
 
