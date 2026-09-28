@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 27 | 13 |
+| 28 | 14 |
 
 ---
 
@@ -15,15 +15,16 @@
 - [Uncategorized](#uncategorized) (12)
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (1)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [constructive algorithms](#constructive-algorithms) (3)
+- [data structures](#data-structures) (1)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
 - [games](#games) (1)
 - [greedy](#greedy) (9)
 - [implementation](#implementation) (1)
-- [math](#math) (7)
+- [math](#math) (8)
 - [number theory](#number-theory) (1)
-- [sortings](#sortings) (3)
+- [sortings](#sortings) (4)
 - [strings](#strings) (3)
 
 ---
@@ -63,6 +64,13 @@
 |---|---------|------------|----------|
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | Unrated | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.txt) |
 | 2250B | [String Construction](https://codeforces.com/contest/2250/problem/B) | Unrated | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2250/B%20-%20String%20Construction/solution.txt) |
+| 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | Unrated | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.txt) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | Unrated | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.txt) |
 
 ### dfs and similar
 
@@ -114,6 +122,7 @@
 | 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.txt) |
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | Unrated | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.txt) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2266/B%20-%20Three%20Piles/solution.txt) |
+| 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | Unrated | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.txt) |
 
 ### number theory
 
@@ -128,6 +137,7 @@
 | 1876A | [Helmets in Night Light](https://codeforces.com/contest/1876/problem/A) | 1000 | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/1876/A%20-%20Helmets%20in%20Night%20Light/solution.txt) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.txt) |
 | 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | Unrated | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.txt) |
+| 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | Unrated | [PyPy 3](https://github.com/Adarsh-Pilakkavil/Codeforces/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.txt) |
 
 ### strings
 
